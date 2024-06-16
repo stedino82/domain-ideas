@@ -3,7 +3,7 @@ from libraries.ideas import domain_ideas
 from libraries.domain import check_availability
 
 
-st.title("Domain ideas")
+st.title("Domain ideas*")
 
 st.write("Add group of keywords (e.g. '**website ideas**'), one group per line, to get some available domain ideas (e.g. '*websiteideas.it*', '*website-ideas.it*', etc.):")
 
